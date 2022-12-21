@@ -13,3 +13,12 @@ print(fullname)
 
 
 #Boolean
+
+#True 
+# False
+
+int = 1 == 1
+print(int)
+
+int2 = 1 == 2 
+print(int2)

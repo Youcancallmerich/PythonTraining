@@ -8,3 +8,8 @@ print(name)
 #Numbers 
 
 #Strings
+fullname = 'richard' + 'connor'
+print(fullname)
+
+
+#Boolean
